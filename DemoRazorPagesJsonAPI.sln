@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoRazorPagesJsonAPI", "DemoRazorPagesJsonAPI\DemoRazorPagesJsonAPI.csproj", "{FBBA8B65-E0C5-46E5-AB4F-7734D5C2CAFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBBA8B65-E0C5-46E5-AB4F-7734D5C2CAFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBBA8B65-E0C5-46E5-AB4F-7734D5C2CAFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBBA8B65-E0C5-46E5-AB4F-7734D5C2CAFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBBA8B65-E0C5-46E5-AB4F-7734D5C2CAFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A26270C-5D6D-4D1B-B4E6-953C42A9B23D}
+	EndGlobalSection
+EndGlobal
